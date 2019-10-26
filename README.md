@@ -13,4 +13,6 @@ Use Python to explore data related to bike share systems for three major cities 
 * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* Udacity mentors for the awesome content
+* https://stackoverflow.com
+* https://www.python.org
