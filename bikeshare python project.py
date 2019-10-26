@@ -159,6 +159,8 @@ def user_stats(df):
 
 
 def raw_data(city):
+    """Asks user if he wants to diplay users raw data of the selected city."""
+
     request = input('Would you like to see users raw data? Enter yes or no.\n').lower()
     df = pd.read_csv(CITY_DATA[city])
     x = 0
